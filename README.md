@@ -3,4 +3,3 @@ Its HTML CSS JAVASCRIPT PROJECT
 
 https://ipl-logo-git-main-shivamgodboles-projects.vercel.app/
 
-https://ipllogo.netlify.app
